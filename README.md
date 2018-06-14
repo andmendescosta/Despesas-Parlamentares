@@ -1,5 +1,3 @@
 # Despesas-Parlamentares
 
-{::nomarkdown}
-	<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMTY2ZDBlNTAtODM4Ni00YjdjLTk2YmYtZmE0NTdiNjYzNTYyIiwidCI6IjQ3Yjg2OTU1LTk5NzMtNGJkNS05MzBhLTQ2ZGQ1NDZhODc5MCJ9" frameborder="0" allowFullScreen="true"></iframe>
-{:/}
+https://app.powerbi.com/view?r=eyJrIjoiMTY2ZDBlNTAtODM4Ni00YjdjLTk2YmYtZmE0NTdiNjYzNTYyIiwidCI6IjQ3Yjg2OTU1LTk5NzMtNGJkNS05MzBhLTQ2ZGQ1NDZhODc5MCJ9
